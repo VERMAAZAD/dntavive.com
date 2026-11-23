@@ -1,0 +1,212 @@
+/* PAGE HERO (info pages) */
+.page-hero {
+  background: var(--green-dark);
+  padding: 60px 5vw 52px;
+  text-align: center;
+}
+.page-hero .page-eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  font-size: 11px;
+  font-weight: 800;
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+  color: #e6d9f5;
+  margin-bottom: 14px;
+}
+.page-hero h1 {
+  font-size: clamp(28px, 3.5vw, 46px);
+  font-weight: 900;
+  color: #fff;
+  letter-spacing: -1px;
+  line-height: 1.12;
+  margin-bottom: 14px;
+}
+.page-hero .page-hero-sub {
+  font-size: 18px;
+  color: #e6d9f5;
+  max-width: 560px;
+  margin: 0 auto;
+  line-height: 1.75;
+}
+.page-hero .page-updated {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #b79bd6;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+}
+
+/* CONTENT WRAPPER */
+.legal-wrap {
+  max-width: 1220px;
+  margin: 0 auto;
+  padding: 60px 5vw 80px;
+}
+
+/* Table of Contents */
+.toc-box {
+  background: var(--green-light);
+  border: 1px solid #d9cdf0;
+  border-radius: var(--radius-lg);
+  padding: 26px 28px;
+  margin-bottom: 48px;
+}
+.toc-box h3 {
+  font-size: 13px;
+  font-weight: 800;
+  letter-spacing: 1.4px;
+  text-transform: uppercase;
+  color: var(--green-dark);
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.toc-box ol {
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+}
+.toc-box ol li a {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--green);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  transition: color .18s;
+}
+.toc-box ol li a:hover {
+  color: var(--green-dark);
+}
+
+/* Content sections */
+.legal-section {
+  margin-bottom: 44px;
+  scroll-margin-top: 80px;
+}
+.legal-section h2 {
+  font-size: 22px;
+  font-weight: 900;
+  color: var(--text);
+  margin-bottom: 12px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--green-light);
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.legal-section h2 i {
+  color: var(--green);
+  font-size: 18px;
+}
+.legal-section p {
+  font-size: 17px;
+  color: var(--muted);
+  line-height: 1.85;
+  margin-bottom: 14px;
+}
+.legal-section ul {
+  padding-left: 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin-bottom: 14px;
+}
+.legal-section ul li {
+  font-size: 17px;
+  color: var(--muted);
+  line-height: 1.75;
+}
+.legal-section strong {
+  color: var(--text);
+  font-weight: 800;
+}
+
+/* Highlight box */
+.legal-highlight {
+  background: var(--amber-light);
+  border-left: 4px solid var(--amber);
+  border-radius: 0 var(--radius) var(--radius) 0;
+  padding: 16px 20px;
+  margin: 18px 0;
+  font-size: 16px;
+  color: var(--muted);
+  line-height: 1.75;
+}
+.legal-highlight strong {
+  color: #7a4a00;
+}
+
+/* Info card row */
+.legal-info-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+  margin: 20px 0;
+}
+.legal-info-card {
+  background: var(--cream);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 16px 18px;
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+}
+.legal-info-card i {
+  color: var(--green);
+  font-size: 20px;
+  margin-top: 2px;
+  flex-shrink: 0;
+}
+.legal-info-card-text h4 {
+  font-size: 15px;
+  font-weight: 800;
+  margin-bottom: 2px;
+}
+.legal-info-card-text p {
+  font-size: 15px;
+  color: var(--light);
+  margin: 0;
+  line-height: 1.5;
+}
+
+/* Page breadcrumb */
+.page-breadcrumb {
+  background: var(--cream2);
+  border-bottom: 1px solid var(--border);
+  padding: 12px 5vw;
+}
+.page-breadcrumb-inner {
+  max-width: 1300px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 14px;
+  color: var(--light);
+}
+.page-breadcrumb-inner a {
+  color: var(--green);
+  font-weight: 700;
+  transition: color .18s;
+}
+.page-breadcrumb-inner a:hover { color: var(--green-dark); }
+.page-breadcrumb-inner i { font-size: 10px; color: var(--border); }
+
+/* Responsive */
+@media (max-width: 768px) {
+  .legal-wrap {
+    padding: 40px 5vw 60px;
+  }
+}
+@media (max-width: 480px) {
+  .page-hero {
+    padding: 44px 5vw 40px;
+  }
+}

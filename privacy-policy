@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+<title>Privacy Policy | DentaVive</title>
+<meta name="description" content="Read the DentaVive privacy policy to learn what information we collect, how it's used, and the choices you have when you visit dntavive.com or place an order.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://dntavive.com/privacy-policy">
+
+<link rel="icon" type="image/svg+xml" href="./assets/images/dentavive-hero.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="./assets/css/styles.css">
+<link rel="stylesheet" href="./assets/css/legal.css">
+</head>
+<body>
+
+<!-- NAV -->
+<div class="nav-wrap">
+  <nav>
+    <div class="nav-inner">
+      <a href="https://dntavive.com/" class="nav-logo"><span class="word">DentaVive</span></a>
+      <ul class="nav-links">
+        <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+        <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+        <li><a href="https://dntavive.com/#bonuses">Bonuses</a></li>
+        <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+        <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+      </ul>
+      <div class="nav-right">
+        <a href="https://dntavive.com/order" class="nav-cta" aria-label="Order Now"><i class="fa-solid fa-bag-shopping"></i>Order Now</a>
+        <button class="nav-burger" id="navBurger" aria-label="Toggle menu" aria-expanded="false"><i class="fa-solid fa-bars"></i></button>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="scrim" id="scrim"></div>
+<div class="mobile-panel" id="mobilePanel">
+  <ul>
+    <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+    <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+    <li><a href="https://dntavive.com/#bonuses">Bonuses</a></li>
+    <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+    <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+  </ul>
+  <a href="https://dntavive.com/order" class="nav-cta"><i class="fa-solid fa-bag-shopping"></i>Order Now</a>
+</div>
+
+<!-- BREADCRUMB -->
+<div class="page-breadcrumb">
+  <div class="page-breadcrumb-inner">
+    <a href="https://dntavive.com/">Home</a>
+    <i class="fa-solid fa-chevron-right"></i>
+    <span>Privacy Policy</span>
+  </div>
+</div>
+
+<!-- PAGE HERO -->
+<div class="page-hero">
+  <p class="page-eyebrow"><i class="fa-solid fa-lock"></i>Your Privacy</p>
+  <h1>Privacy Policy</h1>
+  <p class="page-hero-sub">How DentaVive collects, uses, and protects your information when you visit dntavive.com or place an order.</p>
+  <p class="page-updated"><i class="fa-solid fa-clock"></i>Last updated: September 22, 2026</p>
+</div>
+
+<div class="legal-wrap">
+
+  <div class="toc-box">
+    <h3><i class="fa-solid fa-list-ul"></i>On This Page</h3>
+    <ol>
+      <li><a href="#info-we-collect">1. Information We Collect</a></li>
+      <li><a href="#how-we-use">2. How We Use Your Information</a></li>
+      <li><a href="#cookies">3. Cookies &amp; Tracking Technologies</a></li>
+      <li><a href="#sharing">4. How We Share Information</a></li>
+      <li><a href="#payment">5. Payment &amp; Order Data</a></li>
+      <li><a href="#retention">6. Data Retention</a></li>
+      <li><a href="#your-rights">7. Your Rights &amp; Choices</a></li>
+      <li><a href="#children">8. Children's Privacy</a></li>
+      <li><a href="#security">9. Data Security</a></li>
+      <li><a href="#changes">10. Changes To This Policy</a></li>
+      <li><a href="#contact">11. Contact Us</a></li>
+    </ol>
+  </div>
+
+  <div class="legal-section">
+    <p>DentaVive ("DentaVive," "we," "us," or "our") respects your privacy and is committed to protecting the personal information you share with us. This Privacy Policy explains what information we collect when you visit dntavive.com (the "Site") or purchase our products, how we use and share that information, and the choices available to you. By using the Site, you agree to the practices described in this policy.</p>
+  </div>
+
+  <div class="legal-section" id="info-we-collect">
+    <h2><i class="fa-solid fa-database"></i>1. Information We Collect</h2>
+    <p>We collect information in a few different ways:</p>
+    <ul>
+      <li><strong>Information you provide directly:</strong> your name, email address, shipping address, billing address, and phone number when you place an order, subscribe to updates, or contact customer support.</li>
+      <li><strong>Order and transaction information:</strong> the products you purchase, order history, and related correspondence. Card numbers themselves are processed by our third-party payment processor and are not stored on our servers (see Section 5).</li>
+      <li><strong>Information collected automatically:</strong> IP address, browser type, device type, pages visited, referring URLs, and general location data, collected through cookies and similar technologies when you browse the Site.</li>
+      <li><strong>Communications:</strong> messages you send us through contact forms, email, or customer support channels.</li>
+    </ul>
+
+    <div class="legal-info-row">
+      <div class="legal-info-card">
+        <i class="fa-solid fa-user"></i>
+        <div class="legal-info-card-text">
+          <h4>Account &amp; Order Info</h4>
+          <p>Name, shipping/billing address, email, phone number</p>
+        </div>
+      </div>
+      <div class="legal-info-card">
+        <i class="fa-solid fa-laptop"></i>
+        <div class="legal-info-card-text">
+          <h4>Technical Info</h4>
+          <p>IP address, browser, device, approximate location</p>
+        </div>
+      </div>
+      <div class="legal-info-card">
+        <i class="fa-solid fa-comments"></i>
+        <div class="legal-info-card-text">
+          <h4>Communications</h4>
+          <p>Support emails, chat messages, form submissions</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="legal-section" id="how-we-use">
+    <h2><i class="fa-solid fa-gears"></i>2. How We Use Your Information</h2>
+    <p>We use the information we collect to:</p>
+    <ul>
+      <li>Process and fulfill your orders, including shipping and order confirmations</li>
+      <li>Provide customer support and respond to your questions or requests</li>
+      <li>Send order updates, receipts, and, if you've opted in, marketing emails about DentaVive products and promotions</li>
+      <li>Improve the Site, our products, and the overall shopping experience</li>
+      <li>Detect, investigate, and prevent fraudulent transactions and other unlawful activity</li>
+      <li>Comply with applicable legal obligations, such as tax and accounting requirements</li>
+    </ul>
+    <div class="legal-highlight"><strong>Marketing emails are optional.</strong> Every marketing email we send includes an unsubscribe link, and you can opt out at any time without affecting your ability to receive order-related communications.</div>
+  </div>
+
+  <div class="legal-section" id="cookies">
+    <h2><i class="fa-solid fa-cookie-bite"></i>3. Cookies &amp; Tracking Technologies</h2>
+    <p>Like most websites, we use cookies and similar technologies (such as pixels and local storage) to keep the Site functioning properly, remember your cart, understand how visitors use the Site, and measure the performance of our marketing campaigns, including affiliate and advertising links.</p>
+    <p>You can control cookies through your browser settings. Most browsers let you block or delete cookies, though doing so may affect how parts of the Site function, such as your shopping cart.</p>
+  </div>
+
+  <div class="legal-section" id="sharing">
+    <h2><i class="fa-solid fa-share-nodes"></i>4. How We Share Information</h2>
+    <p>We do not sell your personal information. We may share information with:</p>
+    <ul>
+      <li><strong>Service providers</strong> who help us operate the business — such as payment processors, shipping and fulfillment partners, email service providers, and website hosting or analytics providers — under agreements that limit their use of your data to providing services to us.</li>
+      <li><strong>Affiliate and advertising partners</strong>, in aggregated or de-identified form, to measure the performance of referral links and ad campaigns.</li>
+      <li><strong>Legal and safety purposes</strong>, where we believe disclosure is required by law, regulation, legal process, or governmental request, or to protect the rights, property, or safety of DentaVive, our customers, or others.</li>
+      <li><strong>Business transfers</strong>, such as a merger, acquisition, or sale of assets, in which case customer information may be transferred as part of that transaction.</li>
+    </ul>
+  </div>
+
+  <div class="legal-section" id="payment">
+    <h2><i class="fa-solid fa-credit-card"></i>5. Payment &amp; Order Data</h2>
+    <p>Payments made on the Site are processed by a PCI-compliant third-party payment processor. We do not store your full card number on our servers. The payment processor's own privacy policy governs how they handle your payment details.</p>
+  </div>
+
+  <div class="legal-section" id="retention">
+    <h2><i class="fa-solid fa-box-archive"></i>6. Data Retention</h2>
+    <p>We retain personal information for as long as necessary to fulfill the purposes described in this policy, including to process your orders, comply with legal and tax obligations, resolve disputes, and enforce our agreements. When information is no longer needed, we take reasonable steps to delete or anonymize it.</p>
+  </div>
+
+  <div class="legal-section" id="your-rights">
+    <h2><i class="fa-solid fa-user-shield"></i>7. Your Rights &amp; Choices</h2>
+    <p>Depending on where you live, you may have rights to access, correct, delete, or receive a copy of the personal information we hold about you, and to opt out of certain uses such as marketing communications or, where applicable, the sale or sharing of personal information for targeted advertising.</p>
+    <p>To exercise any of these rights, contact us using the information in Section 11. We will respond within the timeframe required by applicable law and may need to verify your identity before processing your request.</p>
+  </div>
+
+  <div class="legal-section" id="children">
+    <h2><i class="fa-solid fa-child-reaching"></i>8. Children's Privacy</h2>
+    <p>The Site and our products are intended for adults. We do not knowingly collect personal information from children under 13 (or the relevant age of consent in your jurisdiction). If you believe a child has provided us with personal information, please contact us so we can delete it.</p>
+  </div>
+
+  <div class="legal-section" id="security">
+    <h2><i class="fa-solid fa-shield-halved"></i>9. Data Security</h2>
+    <p>We use administrative, technical, and physical safeguards designed to protect your information from unauthorized access, disclosure, alteration, or destruction. No method of transmission or storage is 100% secure, and we cannot guarantee absolute security.</p>
+  </div>
+
+  <div class="legal-section" id="changes">
+    <h2><i class="fa-solid fa-file-pen"></i>10. Changes To This Policy</h2>
+    <p>We may update this Privacy Policy from time to time to reflect changes in our practices or for legal, operational, or regulatory reasons. The "Last updated" date at the top of this page reflects the most recent revision. We encourage you to review this page periodically.</p>
+  </div>
+
+  <div class="legal-section" id="contact">
+    <h2><i class="fa-solid fa-envelope"></i>11. Contact Us</h2>
+    <p>If you have questions about this Privacy Policy or how your information is handled, please contact us through the support information provided on your order confirmation, or via the contact details listed on the Site.</p>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+    <div>
+      <div class="foot-logo"><i class="fa-solid fa-tooth"></i>DentaVive</div>
+      <p class="foot-desc">DentaVive is a daily oral probiotic and mineral supplement formulated to support a balanced mouth microbiome alongside your existing dental routine.</p>
+      <p class="foot-disc">These statements have not been evaluated by the U.S. Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary. Consult a qualified healthcare professional before use, especially if you are pregnant, nursing, managing a medical condition, or taking medication.</p>
+    </div>
+    <div class="foot-col">
+      <h5>Explore</h5>
+      <ul>
+        <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+        <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+        <li><a href="https://dntavive.com/#bonuses">Free Bonuses</a></li>
+        <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h5>Shop</h5>
+      <ul>
+        <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+        <li><a href="https://dntavive.com/#pricing">Order DentaVive</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h5>Resources</h5>
+      <ul>
+        <li><a href="https://dntavive.com/privacy-policy">Privacy Policy</a></li>
+        <li><a href="https://dntavive.com/terms">Terms &amp; Conditions</a></li>
+        <li><a href="https://dntavive.com/affiliate-disclosure">Affiliate Disclosure</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-bottom"><p>&copy; 2026 DentaVive Official. All Rights Reserved.</p></div>
+</footer>
+
+<script>
+  const burger = document.getElementById('navBurger');
+  const panel = document.getElementById('mobilePanel');
+  const scrim = document.getElementById('scrim');
+  function closePanel(){ panel.classList.remove('open'); scrim.classList.remove('open'); burger.setAttribute('aria-expanded','false'); }
+  function openPanel(){ panel.classList.add('open'); scrim.classList.add('open'); burger.setAttribute('aria-expanded','true'); }
+  burger.addEventListener('click', () => panel.classList.contains('open') ? closePanel() : openPanel());
+  scrim.addEventListener('click', closePanel);
+  panel.querySelectorAll('a').forEach(a => a.addEventListener('click', closePanel));
+</script>
+</body>
+</html>

@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0"/>
+
+<title>Affiliate Disclosure | DentaVive</title>
+<meta name="description" content="DentaVive's affiliate disclosure, explaining how we and our partners may earn a commission from qualifying purchases made through links on this site, in line with FTC guidelines.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://dntavive.com/affiliate-disclosure">
+
+<link rel="icon" type="image/svg+xml" href="./assets/images/dentavive-hero.webp">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="./assets/css/styles.css">
+<link rel="stylesheet" href="./assets/css/legal.css">
+</head>
+<body>
+
+<!-- NAV -->
+<div class="nav-wrap">
+  <nav>
+    <div class="nav-inner">
+      <a href="https://dntavive.com/" class="nav-logo"><span class="word">DentaVive</span></a>
+      <ul class="nav-links">
+        <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+        <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+        <li><a href="https://dntavive.com/#bonuses">Bonuses</a></li>
+        <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+        <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+      </ul>
+      <div class="nav-right">
+        <a href="https://dntavive.com/order" class="nav-cta" aria-label="Order Now"><i class="fa-solid fa-bag-shopping"></i>Order Now</a>
+        <button class="nav-burger" id="navBurger" aria-label="Toggle menu" aria-expanded="false"><i class="fa-solid fa-bars"></i></button>
+      </div>
+    </div>
+  </nav>
+</div>
+<div class="scrim" id="scrim"></div>
+<div class="mobile-panel" id="mobilePanel">
+  <ul>
+    <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+    <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+    <li><a href="https://dntavive.com/#bonuses">Bonuses</a></li>
+    <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+    <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+  </ul>
+  <a href="https://dntavive.com/order" class="nav-cta"><i class="fa-solid fa-bag-shopping"></i>Order Now</a>
+</div>
+
+<!-- BREADCRUMB -->
+<div class="page-breadcrumb">
+  <div class="page-breadcrumb-inner">
+    <a href="https://dntavive.com/">Home</a>
+    <i class="fa-solid fa-chevron-right"></i>
+    <span>Affiliate Disclosure</span>
+  </div>
+</div>
+
+<!-- PAGE HERO -->
+<div class="page-hero">
+  <p class="page-eyebrow"><i class="fa-solid fa-circle-info"></i>Full Transparency</p>
+  <h1>Affiliate Disclosure</h1>
+  <p class="page-hero-sub">How we make money from this site, and why it doesn't cost you anything extra.</p>
+  <p class="page-updated"><i class="fa-solid fa-clock"></i>Last updated: September 22, 2026</p>
+</div>
+
+<div class="legal-wrap">
+
+  <div class="toc-box">
+    <h3><i class="fa-solid fa-list-ul"></i>On This Page</h3>
+    <ol>
+      <li><a href="#ftc">1. FTC Compliance</a></li>
+      <li><a href="#what-it-means">2. What This Means For You</a></li>
+      <li><a href="#how-we-earn">3. How We Earn Commissions</a></li>
+      <li><a href="#editorial">4. Our Editorial Independence</a></li>
+      <li><a href="#no-extra-cost">5. No Extra Cost To You</a></li>
+      <li><a href="#disc-questions">6. Questions</a></li>
+    </ol>
+  </div>
+
+  <div class="legal-section">
+    <p>Transparency matters to us, so this page explains plainly how DentaVive and this website make money, in line with Federal Trade Commission (FTC) guidelines on affiliate marketing and endorsements.</p>
+  </div>
+
+  <div class="legal-section" id="ftc">
+    <h2><i class="fa-solid fa-landmark"></i>1. FTC Compliance</h2>
+    <p>The FTC requires that any material connection between a website and the products it promotes be clearly disclosed to readers. This page serves as that disclosure for dntavive.com and any related marketing pages, emails, or content that link to DentaVive products.</p>
+  </div>
+
+  <div class="legal-section" id="what-it-means">
+    <h2><i class="fa-solid fa-circle-question"></i>2. What This Means For You</h2>
+    <p>Some links on this site — including "Order Now," "Add to Cart," and similar buttons — lead to the official DentaVive checkout page. If this site is operated by DentaVive directly, purchases support the business itself. If you arrived here through a partner, reviewer, or affiliate site that links to dntavive.com, that site may earn a commission when you make a qualifying purchase through their link, at no additional cost to you.</p>
+  </div>
+
+  <div class="legal-section" id="how-we-earn">
+    <h2><i class="fa-solid fa-sack-dollar"></i>3. How We Earn Commissions</h2>
+    <p>Where applicable, DentaVive works with affiliate partners and marketing platforms that may receive a commission on sales generated through their unique links, coupon codes, or referral traffic. Commission arrangements do not change the price you pay at checkout.</p>
+  </div>
+
+  <div class="legal-section" id="editorial">
+    <h2><i class="fa-solid fa-pen-nib"></i>4. Our Editorial Independence</h2>
+    <p>The ingredient information, product descriptions, and claims on this site describe DentaVive's actual formula and are not influenced by any individual affiliate relationship. That said, this is a marketing website for DentaVive, and — as with any brand's own site — content here is written to inform you about and encourage purchase of our products, rather than to serve as independent, third-party product reviews.</p>
+    <div class="legal-highlight"><strong>Always do your own research.</strong> We encourage you to review the ingredient list, read the full Terms &amp; Conditions, and consult a healthcare professional before purchasing any supplement, including DentaVive.</div>
+  </div>
+
+  <div class="legal-section" id="no-extra-cost">
+    <h2><i class="fa-solid fa-hand-holding-dollar"></i>5. No Extra Cost To You</h2>
+    <p>Whether you buy through a direct link, a partner's affiliate link, or a promotional code, the price you pay is the same. Affiliate commissions, where they exist, are paid out of DentaVive's marketing budget and are never added on top of your order total.</p>
+  </div>
+
+  <div class="legal-section" id="disc-questions">
+    <h2><i class="fa-solid fa-envelope"></i>6. Questions</h2>
+    <p>If you have questions about this disclosure, our affiliate program, or any content on this site, please reach out using the contact information provided on your order confirmation or elsewhere on the Site.</p>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="foot-inner">
+    <div>
+      <div class="foot-logo"><i class="fa-solid fa-tooth"></i>DentaVive</div>
+      <p class="foot-desc">DentaVive is a daily oral probiotic and mineral supplement formulated to support a balanced mouth microbiome alongside your existing dental routine.</p>
+      <p class="foot-disc">These statements have not been evaluated by the U.S. Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Individual results may vary. Consult a qualified healthcare professional before use, especially if you are pregnant, nursing, managing a medical condition, or taking medication.</p>
+    </div>
+    <div class="foot-col">
+      <h5>Explore</h5>
+      <ul>
+        <li><a href="https://dntavive.com/#how-it-works">How It Works</a></li>
+        <li><a href="https://dntavive.com/#ingredients">Ingredients</a></li>
+        <li><a href="https://dntavive.com/#bonuses">Free Bonuses</a></li>
+        <li><a href="https://dntavive.com/#faq">FAQ</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h5>Shop</h5>
+      <ul>
+        <li><a href="https://dntavive.com/#pricing">Pricing</a></li>
+        <li><a href="https://dntavive.com/#pricing">Order DentaVive</a></li>
+      </ul>
+    </div>
+    <div class="foot-col">
+      <h5>Resources</h5>
+      <ul>
+        <li><a href="https://dntavive.com/privacy-policy">Privacy Policy</a></li>
+        <li><a href="https://dntavive.com/terms">Terms &amp; Conditions</a></li>
+        <li><a href="https://dntavive.com/affiliate-disclosure">Affiliate Disclosure</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="foot-bottom"><p>&copy; 2026 DentaVive Official. All Rights Reserved.</p></div>
+</footer>
+
+<script>
+  const burger = document.getElementById('navBurger');
+  const panel = document.getElementById('mobilePanel');
+  const scrim = document.getElementById('scrim');
+  function closePanel(){ panel.classList.remove('open'); scrim.classList.remove('open'); burger.setAttribute('aria-expanded','false'); }
+  function openPanel(){ panel.classList.add('open'); scrim.classList.add('open'); burger.setAttribute('aria-expanded','true'); }
+  burger.addEventListener('click', () => panel.classList.contains('open') ? closePanel() : openPanel());
+  scrim.addEventListener('click', closePanel);
+  panel.querySelectorAll('a').forEach(a => a.addEventListener('click', closePanel));
+</script>
+</body>
+</html>
